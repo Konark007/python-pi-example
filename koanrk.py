@@ -1,4 +1,4 @@
 def main(msg):
     print(msg)
 
-main("Hello people !!!!!")
+main("We have learned it")
